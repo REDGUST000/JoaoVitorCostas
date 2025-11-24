@@ -7,7 +7,7 @@
 }
 
 body{
-    background-image: url(Design\ sem\ nome\ \(1\).png);
+    background-image: url(imagens/Design\ sem\ nome\ \(1\).png);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -43,7 +43,7 @@ body{
 
 .hero {
    margin-top: 450px;
-    background: url("sua-imagem.jpg") center/cover no-repeat;
+    background: url("imagens/sua-imagem.jpg") center/cover no-repeat;
     display: flex;
     align-items: center;
     padding-left: 80px;
@@ -103,4 +103,5 @@ body{
 .btn:hover {
     background: #fff;
     color: #000;
+
 }
