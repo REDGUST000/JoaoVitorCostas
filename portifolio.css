@@ -7,7 +7,7 @@
 }
 
 body{
-    background-image: url(Design\ sem\ nome\ \(4\).png);
+    background-image: url(imagens/Design\ sem\ nome\ \(4\).png);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -108,4 +108,5 @@ body{
 
 .btn-card:hover {
     color: #fff;
+
 }
