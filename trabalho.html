@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="trabalho .css">
+</head>
+
+<body>
+
+    <body>
+        <header class="container">
+            <ul class="caixa">
+                <a class="item" href="index.html">
+                    <li>Home</li>
+                </a>
+                <a class="item" href="trabalho.html">
+                    <li>Trabalho</li>
+                </a>
+                </a>
+                <a class="item" href="contatos.html">
+                    <li>Contatos</li>
+                </a>
+
+
+            </ul>
+        </header>
+        <h1 class="h1">TRABALHO</h1>
+
+        <div class="carousel-container">
+            <div class="fade-slide active">
+                <img src="imagens/lanche-1.jpg" alt="">
+            </div>
+            <div class="fade-slide">
+                <img src="imagens/lanche-10.jpg" alt="">
+            </div>
+            <div class="fade-slide">
+                <img src="imagens/_DSC0010.jpg" alt="">
+            </div>
+            <div class="fade-slide">
+                <img src="imagens/pedrin-7.jpg" alt="">
+            </div>
+            <div class="fade-slide">
+                <img src="imagens/zelo-28.jpg" alt="">
+            </div>
+            <div class="fade-slide">
+                <img src="imagens/_DSC0013.jpg" alt="">
+            </div>
+        </div>
+
+        <script>
+            let slides = document.querySelectorAll(".fade-slide");
+            let index = 0;
+
+            function showNext() {
+                slides[index].classList.remove("active");
+                index = (index + 1) % slides.length;
+                slides[index].classList.add("active");
+            }
+
+            setInterval(showNext, 4000);
+        </script>
+        <img class="img1" src="imagens/1e376cd0-6ab7-4b0e-80ce-6ae14bd79270.png" alt="">
+
+        <section class="services">
+    <div class="service-card">
+        <span class="number">01</span>
+        <h3>Sobre o meu trabalho na fotografia</h3>
+        <p>
+          Trabalho na fotografia com dedicação, profissionalismo e total respeito pela história de cada cliente. Meu objetivo é entregar não apenas imagens bonitas, mas registros que transmitam emoção, autenticidade e verdade — fotos que você realmente tenha orgulho de guardar e compartilhar.
+
+Cada sessão é planejada com atenção aos detalhes, pensando no seu conforto e na experiência completa. Quero que você se sinta à vontade, confiante e satisfeito com cada etapa do processo, desde o primeiro contato até a entrega final das fotos.
+        </p>
+        
+    </div>
+
+    <div class="service-card">
+        <span class="number">02</span>
+        <h3>Compromisso com a sua segurança e privacidade</h3>
+        <p>
+           A sua imagem é valiosa. Por isso, trato cada foto com total sigilo e responsabilidade. Garantimos a segurança dos seus arquivos, não compartilhamos nenhum conteúdo sem sua autorização e respeitamos 100% a privacidade do cliente. Tudo o que registramos é protegido e tratado de forma profissional.
+        </p>
+       
+    </div>
+
+    <div class="service-card">
+        <span class="number">03</span>
+        <h3>Como trabalhamos</h3>
+        <p>
+           Atendimento humanizado: entendemos suas ideias, necessidades e referências para criar algo único.
+
+Equipamentos profissionais: trabalhamos com qualidade técnica para entregar o melhor resultado possível.
+
+Edição cuidadosa: tratamos cada imagem para realçar sua beleza natural, sem exageros.
+
+Entrega rápida: cumprimos prazos e mantemos uma comunicação clara durante todo o processo.
+
+Experiência personalizada: cada sessão é adaptada ao perfil do cliente — seja para ensaios pessoais, eventos, marcas, produtos ou fotografia corporativa.
+        </p>
+        
+    </div>
+
+    <div class="service-card">
+        <span class="number">04</span>
+        <h3>Resultado Final</h3>
+        <p>
+          Meu objetivo é sempre entregar fotos que falem por si:
+profissionais, modernas, marcantes e que reflitam quem você realmente é.
+
+Se você quer imagens que tragam identidade, emoção e qualidade, estou pronto para transformar sua ideia em realidade.
+        </p>
+       
+    </div>
+</section>
+</body >
+</html >
