@@ -86,7 +86,7 @@ body{
 }
 
 .service-card {
-    width: 320px;
+    width: 340px;
     background: #111; 
     border: 1px solid #1c1c1c;
     padding: 60px;
@@ -139,4 +139,5 @@ body{
    padding: 10px;
 
 }
+
 
