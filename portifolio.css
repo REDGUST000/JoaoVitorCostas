@@ -75,7 +75,7 @@ body{
 }
 
 .service-card:hover {
-    border-color: white;
+    border-color: #9D00FF;
     transform: translateY(-4px);
 }
 
@@ -86,20 +86,20 @@ body{
 }
 
 .service-card h3 {
-    font-size: 22px;
+    font-size: 30px;
     color: #fff;
     margin: 10px 0;
 }
 
 .service-card p {
-    font-size: 14px;
+    font-size: 27px;
     line-height: 1.6;
     margin-bottom: 25px;
     color: #999;
 }
 
 .btn-card {
-    font-size: 14px;
+    font-size: 20px;
     color: #999;
     text-decoration: none;
     border-top: 1px solid #222;
@@ -109,9 +109,10 @@ body{
 }
 
 .btn-card:hover {
-    color: #fff;
+    color: #9D00FF;
 
 }
+
 
 
 
