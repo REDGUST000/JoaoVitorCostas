@@ -67,10 +67,10 @@ body{
 .service-card {
     width: 320px;
     background: #111; 
-    border: 1px solid #1c1c1c;
+    border: 1px solid #9D00FF;
     padding: 75px;
     border-radius: 6px;
-    color: #bbb;
+    color: #9D00FF;
     transition: 0.3s ease;
 }
 
@@ -112,6 +112,7 @@ body{
     color: #fff;
 
 }
+
 
 
 
