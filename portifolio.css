@@ -68,7 +68,7 @@ body{
     width: 320px;
     background: #111; 
     border: 1px solid #FFFFFF;
-    padding: 60px;
+    padding: 55px;
     border-radius: 6px;
     color: #9D00FF;
     transition: 0.3s ease;
@@ -112,6 +112,7 @@ body{
     color: #FFFFFF;
 
 }
+
 
 
 
