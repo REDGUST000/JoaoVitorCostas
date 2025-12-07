@@ -86,20 +86,20 @@ body{
 }
 
 .service-card h3 {
-    font-size: 30px;
+    font-size: 25px;
     color: #9D00FF;
     margin: 10px 0;
 }
 
 .service-card p {
-    font-size: 27px;
+    font-size: 20px;
     line-height: 1.6;
     margin-bottom: 25px;
     color: #9D00FF;
 }
 
 .btn-card {
-    font-size: 20px;
+    font-size: 15px;
     color: #9D00FF;
     text-decoration: none;
     border-top: 1px solid #9D00FF;
@@ -112,6 +112,7 @@ body{
     color: #FFFFFF;
 
 }
+
 
 
 
