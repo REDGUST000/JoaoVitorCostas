@@ -67,7 +67,7 @@ body{
 .service-card {
     width: 320px;
     background: #111; 
-    border: 1px solid #9D00FF;
+    border: 1px solid #FFFFFF;
     padding: 60px;
     border-radius: 6px;
     color: #9D00FF;
@@ -109,9 +109,10 @@ body{
 }
 
 .btn-card:hover {
-    color: #9D00FF;
+    color: #FFFFFF;
 
 }
+
 
 
 
