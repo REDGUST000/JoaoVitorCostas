@@ -70,7 +70,7 @@ body{
     border: 1px solid #FFFFFF;
     padding: 55px;
     border-radius: 6px;
-    color: #9D00FF;
+    color: #FFFFFF;
     transition: 0.3s ease;
 }
 
@@ -87,7 +87,7 @@ body{
 
 .service-card h3 {
     font-size: 25px;
-    color: #9D00FF;
+    color: #FFFFFF;
     margin: 10px 0;
 }
 
@@ -95,7 +95,7 @@ body{
     font-size: 20px;
     line-height: 1.6;
     margin-bottom: 25px;
-    color: #9D00FF;
+    color: #FFFFFF;
 }
 
 .btn-card {
@@ -112,6 +112,7 @@ body{
     color: #FFFFFF;
 
 }
+
 
 
 
