@@ -32,6 +32,7 @@ body{
     font-size: 25px;
     transition: 0.3s ease-in;
      text-decoration: underline;
+    color: #9D00FF;
 }
 .container01{
     display: flex;
@@ -112,6 +113,7 @@ body{
     color: #FFFFFF;
 
 }
+
 
 
 
