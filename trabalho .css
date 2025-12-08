@@ -96,7 +96,7 @@ body{
 }
 
 .service-card:hover {
-    border-color: white;
+     border-color: #9D00FF;
     transform: translateY(-4px);
 }
 
@@ -139,6 +139,7 @@ body{
    padding: 10px;
 
 }
+
 
 
 
