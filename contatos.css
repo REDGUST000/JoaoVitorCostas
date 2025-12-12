@@ -59,7 +59,7 @@ body{
 
 .number {
     font-size: 15px;
-    color: #555;
+    color: #9D00FF;
     letter-spacing: 2px;
 }
 
@@ -87,7 +87,7 @@ body{
 }
 
 .btn-card:hover {
-    color: #fff;
+    color: #9D00FF;
 }
 
 .img1{
@@ -105,6 +105,7 @@ body{
     margin-left: 860px;
 
 }
+
 
 
 
