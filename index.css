@@ -109,6 +109,7 @@ body{
 
 
 .caixa2{
-    display-flex
+     display: flex;
 }
+
 
