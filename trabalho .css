@@ -94,7 +94,7 @@ body{
     border-radius: 6px;
     color: #FFFFFF;
     transition: 0.3s ease;
-    font-size: 15px;
+    
 }
 
 .service-card:hover {
@@ -141,6 +141,7 @@ body{
    padding: 10px;
 
 }
+
 
 
 
