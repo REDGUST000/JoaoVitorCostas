@@ -90,7 +90,7 @@ body{
    width: 320px;
     background: #111; 
     border: 1px solid #FFFFFF;
-    padding: 55px;
+    padding: 60px;
     border-radius: 6px;
     color: #FFFFFF;
     transition: 0.3s ease;
@@ -141,6 +141,7 @@ body{
    padding: 10px;
 
 }
+
 
 
 
