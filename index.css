@@ -110,6 +110,8 @@ body{
 
 .caixa2{
      display: flex;
+    gap: 10px;
 }
+
 
 
