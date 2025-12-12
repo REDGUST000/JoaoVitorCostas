@@ -104,7 +104,7 @@ body{
 
 .number {
     font-size: 15px;
-    color: #555;
+    color: #9D00FF;
     letter-spacing: 2px;
 }
 
@@ -115,7 +115,7 @@ body{
 }
 
 .service-card p {
-    font-size: 14px;
+      font-size: 25px;
     line-height: 1.6;
     margin-bottom: 25px;
     color: #999;
@@ -141,6 +141,7 @@ body{
    padding: 10px;
 
 }
+
 
 
 
